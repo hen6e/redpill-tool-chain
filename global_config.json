@@ -209,7 +209,7 @@
       },
       "redpill_lkm": {
         "source_url": "https://github.com/jimmyGALLAND/redpill-lkm.git",
-        "branch": "develop"
+        "branch": "master"
       },
       "redpill_load": {
         "source_url": "https://github.com/jimmyGALLAND/redpill-load.git",
@@ -236,7 +236,7 @@
       },
       "redpill_lkm": {
         "source_url": "https://github.com/jimmyGALLAND/redpill-lkm.git",
-        "branch": "develop"
+        "branch": "master"
       },
       "redpill_load": {
         "source_url": "https://github.com/pocopico/redpill-load.git",
